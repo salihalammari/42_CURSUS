@@ -12,7 +12,7 @@
 
 #include "../includes/push_swap.h"
 
-void	ps_parsing(const char *str, t_ps *a)
+void	ft_ps_parsing(const char *str, t_ps *a)
 {
 	int		i;
 	char	**tmp;
